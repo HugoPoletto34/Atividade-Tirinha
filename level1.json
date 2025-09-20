@@ -1,4 +1,8 @@
 {
+  "player": {
+    "x": -1,
+    "y": 0
+  },
   "objects": [
     { "type": "plataforma", "x": -1, "y": 0 },
     { "type": "plataforma", "x": 0, "y": 0 },
