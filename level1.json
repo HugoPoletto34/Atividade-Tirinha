@@ -1,7 +1,9 @@
 {
   "objects": [
+    { "type": "plataforma", "x": -1, "y": 0 },
     { "type": "plataforma", "x": 0, "y": 0 },
     { "type": "plataforma", "x": 2, "y": 0 },
+    { "type": "plataforma", "x": 3, "y": 0 },
     { "type": "moeda", "x": 1, "y": 1 },
     { "type": "moeda", "x": 3, "y": 2 }
   ]
